@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDosCrias", "ApiDosCrias\ApiDosCrias.csproj", "{F845BDEE-D555-45D5-83DA-25A7062D85E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{F6B996AE-1086-48AC-839E-F718BF4776AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{3AE7143A-00F1-46F6-A806-447135CB5EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F845BDEE-D555-45D5-83DA-25A7062D85E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F845BDEE-D555-45D5-83DA-25A7062D85E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F845BDEE-D555-45D5-83DA-25A7062D85E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F845BDEE-D555-45D5-83DA-25A7062D85E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B996AE-1086-48AC-839E-F718BF4776AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B996AE-1086-48AC-839E-F718BF4776AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B996AE-1086-48AC-839E-F718BF4776AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B996AE-1086-48AC-839E-F718BF4776AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE7143A-00F1-46F6-A806-447135CB5EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE7143A-00F1-46F6-A806-447135CB5EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE7143A-00F1-46F6-A806-447135CB5EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE7143A-00F1-46F6-A806-447135CB5EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE55D84-CFAC-493C-89B7-E3056B79F939}
+	EndGlobalSection
+EndGlobal
